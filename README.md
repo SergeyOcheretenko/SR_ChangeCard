@@ -1,2 +1,2 @@
-# SR_getCourseNumber
+# getCourseNumber
 Function getCourseNumber for Studcouncil KPI
